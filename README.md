@@ -5,4 +5,4 @@ Successivamente, è stata addestrata e testata una Rete Bayesiana (BN) ed è sta
 Il nostro modello ha dimostrato una grande capacità predittiva, ottenendo buoni punteggi su una serie di parametri, tra cui l'accuratezza (71%).
 I risultati possono essere utilizzati per adattare gli interventi medici, migliorare l'efficacia dei programmi di trattamento e implementare modifiche allo stile di vita per i pazienti che hanno un potenziale per sviluppare il diabete.
 
-Tutti i dettagli sono riportati in "Bayesian_network_analysis_for_diabete_s_prediction.pdf"
+Tutti i dettagli sono riportati in "Bayesian_network_analysis_for_diabete_s_prediction.pdf".
