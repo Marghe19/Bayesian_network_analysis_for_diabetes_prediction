@@ -1,1 +1,0 @@
-# Bayesian_network_analysis_for_diabetes_prediction
