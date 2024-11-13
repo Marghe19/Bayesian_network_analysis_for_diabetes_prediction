@@ -1,3 +1,4 @@
+Progetto sviluppato per il corso "Fondamenti di Visione Artificiale e Biometria" presso l'Università degli studi di Salerno per il corso di Laurea Magistrale in Informatica.
 L'obiettivo di questo lavoro è prevedere l'insorgenza del diabete e diagnosticare la causa, informando così lo sviluppo di strategie efficaci di prevenzione e controllo. 
 Sono stati sviluppati modelli di rete bayesiana (BN) per esplorare le specifiche relazioni tra i fattori influenzanti e il diabete. 
 È stata svolta un'analisi preliminare del dataset eseguendo feature extraction e selection attraverso l'uso di algoritmi di Random Forest e analisi di correlazione per identificare i predittori più rilevanti tra le numerose variabili disponibili.
